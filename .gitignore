@@ -1,0 +1,45 @@
+
+# 1. Temporary files
+*.tmp
+
+# 2. Log files
+*.log
+
+# 3. Backup files
+*.bak
+
+# 4. Windows system files
+Thumbs.db
+
+# 5. macOS system files
+.DS_Store
+
+# 6. Editor swap files
+*.swp
+
+# 7. Node.js dependencies
+node_modules/
+
+# 8. Python cache
+__pycache__/
+
+# 9. Python bytecode
+*.pyc
+
+# 10. Environment files
+*.env
+
+# 11. VS Code settings
+.vscode/
+
+# 12. Build directory
+build/
+
+# 13. Distribution directory
+dist/
+
+# 14. Temporary directory
+temp/
+
+# 15. ZIP archives
+*.zip
